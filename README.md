@@ -1,8 +1,10 @@
-# 팀명 : NPE 단속반
+# Happy-Pets-Day - SpringBoot-Project
+스프링부트 + 마이바티스
 
-# 프로젝트 이름 : happy-pets-day
+## 📚 프로젝트 주제
+반려동물에 관한 여러 서비스를 제공하는 사이트입니다.
 
-## 팀 구성
+## 🧑‍🤝‍🧑 팀 구성
 
 |팀장|이건희|           
 |:--:|:--:|
@@ -12,13 +14,12 @@
 |팀원|조상수| 
 |팀원|이정현|
 
-## ERD구성
+## 🖥 Tools
+- **Java**
+- **SpringBoot**
+- **IntelliJ**
+- **Mybatis**
+- **Oracle**
 
-[![NPE단속반 erd구성](./src/main/resources/static/img/Spring_Erd.png)](https://dbdiagram.io/d/647f4f07722eb774947ee12c)
-
-## 프로젝트 주제
-
-1. ### 반려동물에 관한 여러 서비스를 제공하는 사이트
-    - 반려동물 종 추천(고양이, 강아지)
-    - 산책 번개모임 구하기
-    - 펫 시터 연결
+## 🗂 나의 작업
+### 로그인
